@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me:
+🧑🏻‍💻 Web3 Security --> Smart Contract Auditor: Solidity, Rust
+
