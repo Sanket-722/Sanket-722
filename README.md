@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 ### About me:
 * 🧑🏻‍💻 Web3 Security --> Smart Contract Auditor: Solidity, Rust
 * 🕸️ Web2 Security --> Web, Mobile Application Security Testing, API Security
-* 🏢 Security Researcher @CredShields
+* 🏢 Security Researcher [@CredShields](https://credshields.com/)
 * 🐧 Previously worked as
-    * 💻 Security Researcher @Loginsoft-LLC
-    * 🪲 Bug Bounty Hunter @Bugcrowd
+    * 💻 Security Researcher [@Loginsoft-LLC](https://www.loginsoft.com/)
+    * 🪲 Bug Bounty Hunter [@Bugcrowd](https://www.bugcrowd.com/)
 * 📰 Blogs are at [Sanket722.medium.com](https://sanket722.medium.com/)
-* 💎 Lead of SecurityBoat Community Pune.
+* 💎 Lead of [SecurityBoat Community](https://securityboat.net/sbmeetup/) Pune.
+* 🐦‍🔥 4 CVE's : [CVE-2023-3580](https://nvd.nist.gov/vuln/detail/CVE-2023-3580), [CVE-2023-0827](https://nvd.nist.gov/vuln/detail/CVE-2023-0827), [CVE-2023-1239](https://nvd.nist.gov/vuln/detail/CVE-2023-1239), [CVE-2023-1247](https://nvd.nist.gov/vuln/detail/CVE-2023-1247).
+* ⭐ Hall of Fames : University of Twente, Kistler Company, National Australia Bank, Thomson Reuters, Drugs.com, Stryker.com.
 * 🌉 Non Technical: Travel, Playing Cricket, VolleyBall etc
 
 ### Contacts:
