@@ -1,3 +1,6 @@
+
+<img src="https://github.com/user-attachments/assets/aeec06de-d563-4aff-8995-b480b3f3b385" alt="My_Banner" width="1000" height="300"/>
+
 ## Hey Guy's <img src="https://github.com/user-attachments/assets/95f1841f-78bd-4b6c-a75f-0639547d9e25" alt="Wave_Hand" width="30"/> Sanket_722 this side!
 
 <!--
@@ -13,6 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ [![Sanket’s github stats](https://github-readme-stats.vercel.app/api?username=Sanket-722)](https://github.com/yushi1007)
 -->
 ### About me:
 * 🧑🏻‍💻 Web3 Security --> Smart Contract Auditor: Solidity, Rust
@@ -22,6 +27,7 @@ Here are some ideas to get you started:
     * 💻 Security Researcher @Loginsoft-LLC
     * 🪲 Bug Bounty Hunter @Bugcrowd
 * 📰 Blogs are at [Sanket722.medium.com](https://sanket722.medium.com/)
+* 💎 Lead of SecurityBoat Community Pune.
 * 🌉 Non Technical: Travel, Playing Cricket, VolleyBall etc
 
 ### Contacts:
@@ -29,6 +35,8 @@ I am available for Smart Contract Sercuity Audits and Any Web2 Project . You can
 * 🪆 Discord : @Sanket_722
 * 📅 Schedule a call via [Calendly](https://calendly.com/sanket_722/30min)
 
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   
 
 
