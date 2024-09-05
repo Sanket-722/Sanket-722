@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 * 🌉 Non Technical: Travel, Playing Cricket, VolleyBall etc
 
 ### Contacts:
-I am available for Smart Contract Sercuity Audits and Any Web2 Project . You can reach me at (@Sanket_722):
+I am available for Smart Contract Security Audits and Any Web2 Project . You can reach me at (@Sanket_722):
 * 🪆 Discord : @Sanket_722
 * 📅 Schedule a call via [Calendly](https://calendly.com/sanket_722/30min)
 
